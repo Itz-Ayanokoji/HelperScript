@@ -1,3 +1,3 @@
 # HelperScript
 
-https://heroku.com/deploy?template=https://github.com/bottesterheroku/HelperScript
+https://heroku.com/deploy?template=https://github.com/Itz-Ayanokoji/HelperScript
